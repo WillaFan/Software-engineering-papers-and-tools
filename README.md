@@ -19,7 +19,7 @@ How to be Smart in Software Engineering
 
 ### Build [Web Applications](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG/environment)  
 
-### Hands on Software Projects, [Smart](https://github.com/alibaba/SmartEngine), [SRE](https://sreworks.opensource.alibaba.com/), redis4vm
+### Hands on Software Projects, [Smart](https://github.com/alibaba/SmartEngine), [SRE](https://sreworks.opensource.alibaba.com/), [redis4vm](https://365.kdocs.cn/folder/cppJnzApwuH6)
 
 [baidu](), [CSDN](), [google](), official sites fit in  
 
