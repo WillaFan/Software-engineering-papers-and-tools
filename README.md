@@ -1,9 +1,13 @@
 How to be Smart in Software Engineering
 ====
-🔥New features  
-1. Amend major bugs, add some more new features (2026.2.13 continuing)  
--neat coding  
--add New Projects List.md  
+✨ New features  
+(2026.2.13 continuing) Amend major bugs, add some more new features 
+- neat coding  
+- add a list of .mds
+- add many more `code snippets` !! 
+
+-1-2
+Entry script
 
 ### Software Foundations - Surveillance, Monitoring and Regulatory Tools  
 
@@ -38,7 +42,7 @@ How to be Smart in Software Engineering
 
 ### Automations & Builds  
 - ICG Build ([UCD](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG/deployment))  
-- Kafka Data Center
+- Data Center
 
 # Extensions
 Vulnerability issues
@@ -57,5 +61,5 @@ Vulnerability issues
 
 #
 Career path: dev, ops, operator  
-[icg.citi.com](https://www.citi.com/citi/about/institutional_clients_group.html)  
+[icg.citi.com](https://www.citi.com/citi/about/institutional_clients_group.html) [*]()  
 软件工程，软件架构，计算  
